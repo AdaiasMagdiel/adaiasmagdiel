@@ -10,14 +10,12 @@
 
 <p>I'm Adaías Magdiel, living in Itaituba, Pará, Brazil <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Bandeira_Itaituba.svg/120px-Bandeira_Itaituba.svg.png" width="16px"> and currently pursuing a degree in Mathematics (Licentiate) and a Bachelor's degree in Computer Science. Coding enthusiast with a passion for problem-solving and creating solutions that make life a bit easier.</p>
 
-**Public PGP Key**: [adaiasmagdiel-public.txt](./adaiasmagdiel-public.txt)
-
 Some of my projects worth knowing:
--   [Leste](https://github.com/AdaiasMagdiel/Leste), a Lua testing framework inspired by PestPHP and pytest.
--   [Hermes](https://github.com/AdaiasMagdiel/hermes), a lightweight (and experimental) PHP router manager.
+-   [Erlenmeyer](https://github.com/AdaiasMagdiel/erlenmeyer), a lightweight PHP framework designed to create web applications simply and efficiently.
+-   [Rubik](https://github.com/AdaiasMagdiel/rubik-orm), intuitive ORM for PHP that turns database complexity into simplicity.
+-   [Leste](https://github.com/AdaiasMagdiel/Leste), Lua testing framework inspired by PestPHP and pytest.
 -   [SimpleCache](https://github.com/AdaiasMagdiel/simple-cache), a simple way to manage cache in Python applications.
 -   [Deta Clojure Library](https://github.com/AdaiasMagdiel/deta-clojure), the Clojure SDK designed to simplify interactions with the Deta Space services.
--   [Deta CMS](https://github.com/AdaiasMagdiel/deta-cms), a CMS (Content Management System) created for Deta Space using operations on the Deta Base.
 -   [Beremiz](https://github.com/AdaiasMagdiel/Beremiz), a fun, experimental and stack-based language. Designed to be playful and educational not intended for serious programming.
 
 <table>
