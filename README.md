@@ -34,7 +34,7 @@ Some of my projects worth knowing:
 - 🌔 Lua
 - 🕹️ JavaScript
 - ☕ Java
-- 🦀 Exploring Rust
+- 🟦 Exploring Go
 
 ## Hobbyist Coder
 
