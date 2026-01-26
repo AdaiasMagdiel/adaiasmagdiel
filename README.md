@@ -8,7 +8,7 @@
 
 ## About Me
 
-<p>I'm Adaías Magdiel, living in Itaituba, Pará, Brazil <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Bandeira_Itaituba.svg/120px-Bandeira_Itaituba.svg.png" width="16px"> and currently pursuing a degree in Mathematics (Licentiate) and a Bachelor's degree in Computer Science. Coding enthusiast with a passion for problem-solving and creating solutions that make life a bit easier.</p>
+<p>I'm Adaías Magdiel, living in Itaituba, Pará, Brazil <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Bandeira_Itaituba.svg/120px-Bandeira_Itaituba.svg.png" width="16px">. Coding enthusiast with a passion for problem-solving and creating solutions that make life a bit easier.</p>
 
 Some of my projects worth knowing:
 -   [Erlenmeyer](https://github.com/AdaiasMagdiel/erlenmeyer), a lightweight PHP framework designed to create web applications simply and efficiently.
