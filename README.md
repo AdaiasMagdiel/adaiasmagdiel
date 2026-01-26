@@ -38,7 +38,7 @@ Some of my projects worth knowing:
 
 ## Hobbyist Coder
 
-While I don't work as a professional programmer, coding is my go-to hobby. I love spending my leisure time crafting tools, APIs, and automation solutions. Delving into the art of coding is my way of adding a touch of creativity to everyday challenges.
+Coding is my go-to hobby. I love spending my leisure time crafting tools, APIs, and automation solutions. Delving into the art of coding is my way of adding a touch of creativity to everyday challenges.
 
 ## Interests
 
