@@ -17,6 +17,8 @@ Some of my projects worth knowing:
 -   [SimpleCache](https://github.com/AdaiasMagdiel/simple-cache), a simple way to manage cache in Python applications.
 -   [Deta Clojure Library](https://github.com/AdaiasMagdiel/deta-clojure), the Clojure SDK designed to simplify interactions with the Deta Space services.
 -   [Beremiz](https://github.com/AdaiasMagdiel/Beremiz), a fun, experimental and stack-based language. Designed to be playful and educational not intended for serious programming.
+-   [Minesweeper CLI (COBOL)](https://github.com/AdaiasMagdiel/minesweeper-cli-cobol), a terminal Minesweeper game — my first steps learning COBOL.
+-   [Guess the Number (COBOL)](https://github.com/AdaiasMagdiel/guess-the-number-cobol), a simple number-guessing game, another early exercise in COBOL.
 
 <table>
   <tr>
@@ -27,14 +29,15 @@ Some of my projects worth knowing:
 
 ## Languages
 
-- 🔧 C 
-- 🐍 Python 
-- 🐘 PHP 
-- 🧮 Clojure 
-- 🌔 Lua
-- 🕹️ JavaScript
-- ☕ Java
-- 🟦 Exploring Go
+[![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))  
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)  
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)  
+[![Clojure](https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white)](https://clojure.org/)  
+[![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/)  
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)  
+[![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://go.dev/)  
+[![Learning COBOL](https://img.shields.io/badge/Learning%20COBOL-4B4B4B?style=for-the-badge)](https://en.wikipedia.org/wiki/COBOL)
 
 ## Hobbyist Coder
 
@@ -50,7 +53,9 @@ Coding is my go-to hobby. I love spending my leisure time crafting tools, APIs, 
 
 ## Learning Journey
 
-Always on the lookout for new things to learn, currently diving into the world of Rust.
+Always on the lookout for new things to learn. Right now I'm exploring Go and taking my first
+steps into COBOL, with two small hands-on projects: a [Minesweeper CLI](https://github.com/AdaiasMagdiel/minesweeper-cli-cobol)
+and a [Guess the Number](https://github.com/AdaiasMagdiel/guess-the-number-cobol) game.
 
 ## Let's Connect!
 
