@@ -6,6 +6,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/adaias.magdiel)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adaiasmagdiel/)
 
+![](https://komarev.com/ghpvc/?username=AdaiasMagdiel&base=1347)
+
 ## About Me
 
 <p>I'm Adaías Magdiel, living in Itaituba, Pará, Brazil <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Bandeira_Itaituba.svg/120px-Bandeira_Itaituba.svg.png" width="16px">. Coding enthusiast with a passion for problem-solving and creating solutions that make life a bit easier.</p>
