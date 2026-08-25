@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/adaias.magdiel)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adaiasmagdiel/)
 
-![](https://komarev.com/ghpvc/?username=AdaiasMagdiel&base=1347)
+[![Adaías Magdiel profile views](https://u8views.com/api/v1/github/profiles/22068596/views/day-week-month-total-count.svg)](https://u8views.com/github/AdaiasMagdiel)
 
 ## About Me
 
